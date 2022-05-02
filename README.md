@@ -1,4 +1,4 @@
-## Projeto Módulo 10 - Tópicos Avançados - Micro Serviço | Mensageria-Kafka | BD-PostgreSQL
+## Projeto Módulo 10 - Tópicos Avançados - Micro Serviço
 
 ### Requisitos funcionais
 
