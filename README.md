@@ -3,19 +3,19 @@
 ### Requisitos funcionais
 
  - Criação de produtos;
- - Listagem dos produtos cadastrados (com paginação);
+ - Listagem dos produtos cadastrados;
  - Informar, na rota acima, dados do produto conforme filtro pelo código;
- - Compra do(s) produto(s) cadastrado(s);
- - Listagem das compras realizadas (com paginação);
+ - Compra do(s) produto(s);
+ - Listagem das compras realizadas;
  - Informar, na rota acima, dados da compra conforme filtro pelo cpf;
- - Criação de usuário (utilizando criptografia - BCrypt);
+ - Criação de usuário;
  - Proteção das rotas possibilitando acesso apenas por usuários cadastrados.
 
 #### Requisitos não funcionais
 
  - Padrão de arquitetura REST;
  - Arquitetura de micro serviço;
- - Serviço de mensageria(Kafka); 
+ - Serviço de mensageria; 
  - Autenticação de rotas;
  - Banco de dados relacional.
  
